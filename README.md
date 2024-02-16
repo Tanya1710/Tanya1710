@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-      <h1>БДЮТ - Будинок дитячої та юнацької творчості Христинівської міської ради Черкаської області</h1> <img src="фон.jpg" class="bg-image">
-    <link rel="stylesheet" type="text/css" href="styles.css">
+<head>   
+      <h1>БДЮТ - Будинок дитячої та юнацької творчості Христинівської міської ради Черкаської області</h1> 
+      <div class="image-container">
+            <img src="фон.jpg" class="bg-image">
+            <img src="мін.gif" class="icon">
+        </div>
 </head>
 <body>
     <header>
