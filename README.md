@@ -29,12 +29,6 @@
         Тож ласкаво просимо до нас, у нашу велику творчу родину!
        </p>
         <div id="animationBox"></div>
-    </section>
-    <section id="musicSection">
-        <audio controls autoplay>
-            <source src="фонова.mp3" type="audio/mpeg">
-        </audio>
-    </section>
     <section id="textSections">
         <h2>Наші гуртки для ваших дітей </h2>
         <ul>
